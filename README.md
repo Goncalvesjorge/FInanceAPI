@@ -19,5 +19,5 @@ API REST desenvolvida em Python para gerenciamento de finanças pessoais, permit
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Goncalvesjorge/FinanceAPI.git](https://github.com/Goncalvesjorge/FinanceAPI.git)
-   cd FinanceAPI
+   git clone https://github.com/Goncalvesjorge/FinanceAPI.git
+cd FinanceAPI
